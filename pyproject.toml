@@ -8,6 +8,8 @@ version = "0.1.0"
 description = "Move plan files through a lifecycle shared by concurrent worker processes."
 readme = "README.md"
 requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Surendra Pepakayala" }]
 dependencies = ["PyYAML>=6.0"]
 
 [project.optional-dependencies]

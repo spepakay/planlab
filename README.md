@@ -91,3 +91,7 @@ bug in planlab, never a refusal.
 The concurrency tests start real competing processes. The test-only
 `PLANLAB_TEST_LOCK_DELAY` variable holds the lock longer so the processes
 genuinely contend instead of finishing one after the other.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
